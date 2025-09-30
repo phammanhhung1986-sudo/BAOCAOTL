@@ -1,0 +1,5 @@
+{
+  "name": "Báo cáo Pro",
+  "description": "An application to merge Excel files and automatically generate Word reports for academic plagiarism checks, designed with a modern and intuitive user interface.",
+  "requestFramePermissions": []
+}
